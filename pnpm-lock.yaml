@@ -9,8 +9,8 @@ dependencies:
     specifier: ^4.7.0
     version: 4.7.0(monaco-editor@0.52.2)(react-dom@19.1.0)(react@19.1.0)
   '@stable-canvas/comfyui-client-transpiler':
-    specifier: ^1.0.4
-    version: 1.0.4
+    specifier: ^1.0.6
+    version: 1.0.6
   '@stable-canvas/cw-reader':
     specifier: ^1.0.3
     version: 1.0.3
@@ -796,8 +796,8 @@ packages:
     dev: true
     optional: true
 
-  /@stable-canvas/comfyui-client-transpiler@1.0.4:
-    resolution: {integrity: sha512-qdlW2/TQ5nIegqmhcbt83VZHu/uroBV38UghB574XZrxXlgHKjEEgal+3pDhzHL33THGlwUEXb1G7ocaCbSd4Q==}
+  /@stable-canvas/comfyui-client-transpiler@1.0.6:
+    resolution: {integrity: sha512-gzzDW7tMUZGX0NXKam6KOvwF6bYxt7xmkzCh0bS8rJt618hMfQex8IKCvIzKTT5O2QlddqPlAdQRDyAp7A0HdQ==}
     dependencies:
       '@babel/generator': 7.27.3
       '@babel/types': 7.27.3

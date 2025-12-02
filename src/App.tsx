@@ -1,4 +1,4 @@
-import { useState, useCallback, useEffect, useRef } from "react";
+import { useState, useCallback, useEffect } from "react";
 import { useDropzone, type FileWithPath } from "react-dropzone";
 import { JsonReader, ImageReader, CWorkflow } from "@stable-canvas/cw-reader";
 import { Transpiler } from "@stable-canvas/comfyui-client-transpiler";

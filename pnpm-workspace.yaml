@@ -1,2 +1,8 @@
+allowBuilds:
+  esbuild: true
+
 onlyBuiltDependencies:
   - esbuild
+
+minimumReleaseAgeExclude:
+  - "@stable-canvas/comfyui-client-transpiler"

@@ -5,6 +5,10 @@ on:
     branches: ["main"]
     paths:
       [
+        ".github/workflows/deploy.yml",
+        "package.json",
+        "pnpm-lock.yaml",
+        "pnpm-workspace.yaml",
         "src/**/*.js",
         "src/**/*.css",
         "src/**/*.html",

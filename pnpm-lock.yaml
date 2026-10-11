@@ -12,8 +12,8 @@ importers:
         specifier: ^4.7.0
         version: 4.7.0(monaco-editor@0.55.1)(react-dom@19.2.6(react@19.2.6))(react@19.2.6)
       '@stable-canvas/comfyui-client-transpiler':
-        specifier: ^1.1.0
-        version: 1.1.0
+        specifier: ^1.2.0
+        version: 1.2.0
       '@stable-canvas/cw-reader':
         specifier: ^1.1.0
         version: 1.1.0
@@ -520,8 +520,8 @@ packages:
     cpu: [x64]
     os: [win32]
 
-  '@stable-canvas/comfyui-client-transpiler@1.1.0':
-    resolution: {integrity: sha512-aCE5i84hBqZWiEGtyECScNehwK2AwTvZrnkfJ9r9DvNwVQu59aqXLYnDQFvyfwfu2Yk6/Evf/nF9PloRfIeZ2g==}
+  '@stable-canvas/comfyui-client-transpiler@1.2.0':
+    resolution: {integrity: sha512-MiGgOtKz05MjpgdcLTugnF42wHyOGe72b9apL2s+SzMdSNrfRo6fSr+wpBbUbTV/D2/l0xGYq2UEjMMGyRDnhg==}
 
   '@stable-canvas/cw-reader@1.1.0':
     resolution: {integrity: sha512-pKoTzpXpfswxkvR6m5QN07B7PO5XHoB4FYlOpEQ0hFfFLTpv1EZAw35Fx0pGsIUGQI/50JtHwe7tA9VtzBtBNw==}
@@ -1537,7 +1537,7 @@ snapshots:
   '@rollup/rollup-win32-x64-msvc@4.60.3':
     optional: true
 
-  '@stable-canvas/comfyui-client-transpiler@1.1.0':
+  '@stable-canvas/comfyui-client-transpiler@1.2.0':
     dependencies:
       '@babel/generator': 7.29.1
       '@babel/types': 7.29.0

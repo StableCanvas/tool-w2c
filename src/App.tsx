@@ -328,6 +328,7 @@ function App() {
                     fontSize: 13,
                     scrollBeyondLastLine: false,
                     fontFamily: '"JetBrains Mono", "Fira Code", monospace',
+                    wordWrap: "on",
                   }}
                   theme="vs-dark"
                 />
@@ -358,6 +359,7 @@ function App() {
                     fontSize: 13,
                     scrollBeyondLastLine: false,
                     fontFamily: '"JetBrains Mono", "Fira Code", monospace',
+                    wordWrap: "on",
                   }}
                   theme="vs-dark"
                 />

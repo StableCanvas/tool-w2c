@@ -11,8 +11,8 @@
   },
   "dependencies": {
     "@monaco-editor/react": "^4.7.0",
-    "@stable-canvas/comfyui-client-transpiler": "^1.2.0",
-    "@stable-canvas/cw-reader": "^1.1.0",
+    "@stable-canvas/comfyui-client-transpiler": "^1.2.2",
+    "@stable-canvas/cw-reader": "^1.2.0",
     "normalize.css": "^8.0.1",
     "react": "^19.1.0",
     "react-dom": "^19.1.0",

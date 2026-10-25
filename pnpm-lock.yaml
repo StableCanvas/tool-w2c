@@ -12,11 +12,11 @@ importers:
         specifier: ^4.7.0
         version: 4.7.0(monaco-editor@0.55.1)(react-dom@19.2.6(react@19.2.6))(react@19.2.6)
       '@stable-canvas/comfyui-client-transpiler':
-        specifier: ^1.2.2
-        version: 1.2.2
+        specifier: ^1.2.5
+        version: 1.2.5
       '@stable-canvas/cw-reader':
-        specifier: ^1.2.0
-        version: 1.2.0
+        specifier: ^1.2.3
+        version: 1.2.3
       normalize.css:
         specifier: ^8.0.1
         version: 8.0.1
@@ -533,11 +533,11 @@ packages:
     cpu: [x64]
     os: [win32]
 
-  '@stable-canvas/comfyui-client-transpiler@1.2.2':
-    resolution: {integrity: sha512-HS+vgRvzYWOfSIac6vc3Qa/i4YUEUjg1c6+/xx40Um8eT7uVjvmTSgW6+46Pjgxtqvv2vTg1DwWhLA2yck9osg==}
+  '@stable-canvas/comfyui-client-transpiler@1.2.5':
+    resolution: {integrity: sha512-utmhJnLMnWebrkTKXTRnMNCYozfy/wv9d0MnfNM3Eo0NutXVZIw08/4RgA8bVBUiqN9kyT4OPqmNYs69GTwE4g==}
 
-  '@stable-canvas/cw-reader@1.2.0':
-    resolution: {integrity: sha512-Z4VAjPSxyaMgN/SciIg0wiODYPlJ/Ibp4RUHOMT7vVWBgD1WXklQFTcYFDjfkGPYA3QApOtY2itGkQyXP6SVDg==}
+  '@stable-canvas/cw-reader@1.2.3':
+    resolution: {integrity: sha512-f/yX8pv61ZYrvuoils7AlJRxjYqXVqYvJNiRpCKxSb4vK0wxRysvcRAbSRTjooYR4w0PSWObHLh5I6zAwb4Nsw==}
 
   '@types/babel__core@7.20.5':
     resolution: {integrity: sha512-qoQprZvz5wQFJwMDqeseRXWv3rqMvhgpbXFfVyWhbx9X47POIA6i/+dXefEmZKoAgOaTdaIgNSMqMIU61yRyzA==}
@@ -1550,13 +1550,13 @@ snapshots:
   '@rollup/rollup-win32-x64-msvc@4.60.3':
     optional: true
 
-  '@stable-canvas/comfyui-client-transpiler@1.2.2':
+  '@stable-canvas/comfyui-client-transpiler@1.2.5':
     dependencies:
       '@babel/generator': 7.29.1
       '@babel/types': 7.29.0
-      '@stable-canvas/cw-reader': 1.2.0
+      '@stable-canvas/cw-reader': 1.2.3
 
-  '@stable-canvas/cw-reader@1.2.0':
+  '@stable-canvas/cw-reader@1.2.3':
     dependencies:
       exifr: 7.1.3
 

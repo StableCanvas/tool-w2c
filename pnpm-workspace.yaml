@@ -6,3 +6,4 @@ onlyBuiltDependencies:
 
 minimumReleaseAgeExclude:
   - "@stable-canvas/comfyui-client-transpiler"
+  - "@stable-canvas/cw-reader"
